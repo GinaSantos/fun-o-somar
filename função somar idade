@@ -1,0 +1,13 @@
+void main()
+{
+  int idademinima =18;
+  int suaidade =20;
+  
+  if(idademinima>suaidade)
+  {
+    print("Você não pode entrar nesse site por agora tenta novamente daqui alguns anos.");
+  }else
+  {
+    print("Bem-Vindo.");
+  }
+}
